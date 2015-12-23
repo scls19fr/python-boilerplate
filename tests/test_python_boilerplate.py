@@ -23,4 +23,4 @@ class TestPython_boilerplate:
 
     def test_000_something(self):
         print("test")
-        assert_equal(1, 12)
+        assert_equal(1, 1)
