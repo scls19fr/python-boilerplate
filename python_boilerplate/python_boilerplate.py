@@ -24,7 +24,7 @@ def add(a, b):
     result : sum of ``a`` and ``b``
 
 
-    >>> add(3, 12)
+    >>> add(3, 2)
     5
     """
     return a + b
