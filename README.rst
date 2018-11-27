@@ -34,7 +34,7 @@ Python Boilerplate
         :alt: Documentation Status
 
 .. image:: https://img.shields.io/travis/scls19fr/python-boilerplate.svg
-        :target: https://travis-ci.org/scls19fr/python-boilerplate/
+        :target: https://travis-ci.com/scls19fr/python-boilerplate/
 
 
 Python Boilerplate contains all the boilerplate you need to create a Python package.
